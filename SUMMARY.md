@@ -19,3 +19,7 @@
 
 * [Tools](data-engineer/tools.md)
 
+## Unix
+
+* [Git - Pretty git branch graphs](unix/git-pretty-git-branch-graphs.md)
+
