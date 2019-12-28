@@ -15,7 +15,7 @@
 ## Database <a id="db"></a>
 
 * [Athena - Add Partition](db/athena-add-partition.md)
-* [Redshift - GRANT](db/redshift-grant.md)
+* [Redshift - GRANT](redshift/grant.md)
 
 ## Data Engineer
 
