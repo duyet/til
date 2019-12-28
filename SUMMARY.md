@@ -4,6 +4,7 @@
 
 ## Airflow
 
+* [Airflow in Docker Compose](airflow/airflow-in-docker-compose.md)
 * [Airflow in Docker](airflow/airflow-docker.md)
 
 ## Python
