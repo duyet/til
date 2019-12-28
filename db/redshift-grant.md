@@ -1,4 +1,4 @@
-# GRANT
+# Redshift - GRANT
 
 Grant all on schema to user\_name:
 
