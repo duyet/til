@@ -2,11 +2,6 @@
 
 * [Today I Learned](README.md)
 
-## Airflow
-
-* [Airflow in Docker Compose](airflow/airflow-in-docker-compose.md)
-* [Airflow in Docker](airflow/airflow-docker.md)
-
 ## Python
 
 * [date\_range\_generator](python/date_range_generator.md)
@@ -20,6 +15,11 @@
 ## Data Engineer
 
 * [Tools](data-engineer/tools.md)
+
+## Airflow
+
+* [Airflow in Docker Compose](airflow/airflow-in-docker-compose.md)
+* [Airflow in Docker](airflow/airflow-docker.md)
 
 ## Unix
 
