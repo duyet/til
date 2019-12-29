@@ -11,6 +11,7 @@
 
 * [Athena - Add Partition](db/athena-add-partition.md)
 * [Redshift - GRANT](redshift/grant.md)
+* [Postgres list tables](db/postgres-list-tables.md)
 
 ## Data Engineer
 
