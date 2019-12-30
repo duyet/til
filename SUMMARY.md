@@ -21,6 +21,7 @@
 
 * [Airflow in Docker Compose](airflow/airflow-in-docker-compose.md)
 * [Airflow in Docker](airflow/airflow-docker.md)
+* [Best Practices for Airflow and ETLs](airflow/best-practices-for-airflow-and-etls.md)
 
 ## Unix
 
