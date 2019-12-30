@@ -24,5 +24,6 @@
 
 ## Unix
 
+* [Docker cleanup](unix/docker-cleanup.md)
 * [Git - Pretty git branch graphs](unix/git-pretty-git-branch-graphs.md)
 
