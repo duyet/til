@@ -12,6 +12,7 @@
 * [Athena - Add Partition](db/athena-add-partition.md)
 * [Redshift - GRANT](redshift/grant.md)
 * [Postgres list tables](db/postgres-list-tables.md)
+* [Hive - SHOW schemas/tables/create](db/hive-show-schemas-tables-create.md)
 
 ## Data Engineer
 
@@ -27,4 +28,5 @@
 
 * [Docker cleanup](unix/docker-cleanup.md)
 * [Git - Pretty git branch graphs](unix/git-pretty-git-branch-graphs.md)
+* [K8S - Port Forward](unix/k8s-port-forward.md)
 
