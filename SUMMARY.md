@@ -13,6 +13,7 @@
 * [Redshift - GRANT](redshift/grant.md)
 * [Postgres list tables](db/postgres-list-tables.md)
 * [Hive - SHOW schemas/tables/create](db/hive-show-schemas-tables-create.md)
+* [Redshift - Check the table size](db/redshift-check-the-table-size.md)
 
 ## Data Engineer
 
