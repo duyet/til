@@ -10,7 +10,7 @@
 ## Database <a id="db"></a>
 
 * [Athena - Add Partition](db/athena-add-partition.md)
-* [Redshift - GRANT](redshift/grant.md)
+* [Redshift - GRANT](db/redshift-grant.md)
 * [Postgres list tables](db/postgres-list-tables.md)
 * [Hive - SHOW schemas/tables/create](db/hive-show-schemas-tables-create.md)
 * [Redshift - Check the table size](db/redshift-check-the-table-size.md)
@@ -24,6 +24,7 @@
 * [Airflow in Docker Compose](airflow/airflow-in-docker-compose.md)
 * [Airflow in Docker](airflow/airflow-docker.md)
 * [Best Practices for Airflow and ETLs](airflow/best-practices-for-airflow-and-etls.md)
+* [Mastering Airflow UI](airflow/mastering-airflow-ui.md)
 
 ## Unix
 
