@@ -9,7 +9,7 @@ TO user_name;
 
 
 GRANT ALL PRIVILEGES
-ALL TABLES IN SCHEMA schema_name
+ON ALL TABLES IN SCHEMA schema_name
 TO user_name;
 ```
 

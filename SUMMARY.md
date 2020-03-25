@@ -14,6 +14,7 @@
 * [Postgres list tables](db/postgres-list-tables.md)
 * [Hive - SHOW schemas/tables/create](db/hive-show-schemas-tables-create.md)
 * [Redshift - Check the table size](db/redshift-check-the-table-size.md)
+* [Redshift - tables and their owners](db/redshift-tables-and-their-owners.md)
 
 ## Data Engineer
 
