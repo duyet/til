@@ -20,6 +20,7 @@
 ## Data Engineer
 
 * [Tools](data-engineer/tools.md)
+* [EMR](data-engineer/emr.md)
 
 ## Airflow
 
