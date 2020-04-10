@@ -7,11 +7,13 @@ description: Manage EMR Cluster
 ## List all services
 
 {% tabs %}
-{% tab title="Bash" %}
+{% tab title="Command" %}
 ```bash
 initctl list
 ```
+{% endtab %}
 
+{% tab title="Output" %}
 ```text
 rc stop/waiting
 tty (/dev/tty3) start/running, process 4367
