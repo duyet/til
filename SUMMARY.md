@@ -21,6 +21,7 @@
 
 * [Tools](data-engineer/tools.md)
 * [EMR](data-engineer/emr.md)
+* [EMR - Tez](data-engineer/emr-tez.md)
 
 ## Airflow
 
