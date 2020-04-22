@@ -1,4 +1,4 @@
-# Postgres list tables
+# Postgres - List tables
 
 ### Using psql
 

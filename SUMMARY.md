@@ -11,11 +11,11 @@
 ## Database <a id="db"></a>
 
 * [Athena - Add Partition](db/athena-add-partition.md)
-* [Redshift - GRANT](db/redshift-grant.md)
-* [Postgres list tables](db/postgres-list-tables.md)
-* [Hive - SHOW schemas/tables/create](db/hive-show-schemas-tables-create.md)
 * [Redshift - Check the table size](db/redshift-check-the-table-size.md)
 * [Redshift - tables and their owners](db/redshift-tables-and-their-owners.md)
+* [Redshift - GRANT](db/redshift-grant.md)
+* [Postgres - List tables](db/postgres-list-tables.md)
+* [Hive - SHOW schemas/tables/create](db/hive-show-schemas-tables-create.md)
 
 ## Data Engineer
 
