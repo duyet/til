@@ -36,3 +36,7 @@
 * [K8S - Port Forward](unix/k8s-port-forward.md)
 * [Articles](articles.md)
 
+## Miscellaneous
+
+* [\[Fig\] Single machine and distributed system structure](miscellaneous/fig-single-machine-and-distributed-system-structure.md)
+
