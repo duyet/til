@@ -28,6 +28,7 @@
   * [Mastering Airflow UI](data-engineer/apache-airflow/mastering-airflow-ui.md)
   * [Best Practices for Airflow and ETLs](data-engineer/apache-airflow/best-practices-for-airflow-and-etls.md)
   * [Airflow in Docker Compose](data-engineer/apache-airflow/airflow-in-docker-compose.md)
+  * [Useful SQL queries for Apache Airflow](data-engineer/apache-airflow/useful-sql-queries-for-apache-airflow.md)
 
 ## Unix
 
