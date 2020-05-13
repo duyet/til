@@ -23,6 +23,7 @@
 * [EMR](data-engineer/emr/README.md)
   * [Manage services](data-engineer/emr/manage-services.md)
   * [EMR - Tez](data-engineer/emr/emr-tez.md)
+  * [Issues](data-engineer/emr/issues.md)
 * [Apache Airflow](data-engineer/apache-airflow/README.md)
   * [Airflow in Docker](data-engineer/apache-airflow/airflow-docker.md)
   * [Mastering Airflow UI](data-engineer/apache-airflow/mastering-airflow-ui.md)
