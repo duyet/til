@@ -1,8 +1,9 @@
 # Helm: render manifest locally
 
-1. Download chart to local
-2. Get values from release yaml
-3. Using `helm template` to render manifest
+1. Install yq \(`brew install yq`\)
+2. Download chart to local
+3. Get values from release yaml
+4. Using `helm template` to render manifest
 
 ```bash
 function download {
