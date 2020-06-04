@@ -23,5 +23,12 @@ GRANT USAGE ON SCHEMA "ro_schema" TO GROUP ro_group;
 GRANT SELECT ON ALL TABLES IN SCHEMA "ro_schema" TO GROUP ro_group;
 ```
 
+Change owner:
+
+```sql
+ALTER TABLE
+    <schema>.<table> OWNER TO <user>;
+```
+
 
 
