@@ -21,6 +21,7 @@
 
 * [Tools](data-engineer/tools.md)
 * [EMR](data-engineer/emr/README.md)
+  * [S3 Dist CP](data-engineer/emr/s3-dist-cp.md)
   * [Manage services](data-engineer/emr/manage-services.md)
   * [EMR - Tez](data-engineer/emr/emr-tez.md)
   * [Issues](data-engineer/emr/issues.md)
