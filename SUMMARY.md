@@ -49,3 +49,7 @@
 * [\[Fig\] Single machine and distributed system structure](miscellaneous/fig-single-machine-and-distributed-system-structure.md)
 * [Deploying Machine Learning Models at Scale](miscellaneous/deploying-machine-learning-models-at-scale.md)
 
+## Go
+
+* [Functions and Methods in Go?](go/functions-and-methods-in-go.md)
+
