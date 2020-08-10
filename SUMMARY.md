@@ -26,6 +26,7 @@
   * [EMR - Tez](data-engineer/emr/emr-tez.md)
   * [Issues](data-engineer/emr/issues.md)
 * [Kubernetes](data-engineer/kubernetes/README.md)
+  * [Happy helm](data-engineer/kubernetes/happy-helm.md)
   * [Helm: render manifest locally](data-engineer/kubernetes/helm-render-manifest-locally.md)
 * [Apache Airflow](data-engineer/apache-airflow/README.md)
   * [Airflow in Docker](data-engineer/apache-airflow/airflow-docker.md)
