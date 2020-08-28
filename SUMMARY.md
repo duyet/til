@@ -29,6 +29,8 @@
 * [Kubernetes](data-engineer/kubernetes/README.md)
   * [Happy helm](data-engineer/kubernetes/happy-helm.md)
   * [Helm: render manifest locally](data-engineer/kubernetes/helm-render-manifest-locally.md)
+* [Helm Charts](data-engineer/helm-charts/README.md)
+  * [Create public Helm chart repository with GitHub Pages](data-engineer/helm-charts/create-public-helm-chart-repository-with-github-pages.md)
 * [Apache Airflow](data-engineer/apache-airflow/README.md)
   * [Airflow in Docker](data-engineer/apache-airflow/airflow-docker.md)
   * [Mastering Airflow UI](data-engineer/apache-airflow/mastering-airflow-ui.md)
