@@ -17,6 +17,7 @@
 * [Redshift - GRANT](db/redshift-grant.md)
 * [Postgres - List tables](db/postgres-list-tables.md)
 * [Hive - SHOW schemas/tables/create](db/hive-show-schemas-tables-create.md)
+* [Postgres - Index Summary](db/postgres-index-summary.md)
 
 ## Data Engineer
 
