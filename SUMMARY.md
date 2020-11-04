@@ -18,6 +18,7 @@
 * [Postgres - List tables](db/postgres-list-tables.md)
 * [Hive - SHOW schemas/tables/create](db/hive-show-schemas-tables-create.md)
 * [Postgres - Index Summary](db/postgres-index-summary.md)
+* [Bigquery - Sample queries for audiences based](db/bigquery-sample-queries-for-audiences-based.md)
 
 ## Data Engineer
 
