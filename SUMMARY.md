@@ -19,6 +19,7 @@
 * [Hive - SHOW schemas/tables/create](db/hive-show-schemas-tables-create.md)
 * [Postgres - Index Summary](db/postgres-index-summary.md)
 * [Bigquery - Sample queries for audiences based](db/bigquery-sample-queries-for-audiences-based.md)
+* [Bigquery - UNNEST in SELECT](db/bigquery-unnest-in-select.md)
 
 ## Data Engineer
 
