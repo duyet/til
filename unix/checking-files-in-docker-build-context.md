@@ -1,6 +1,6 @@
 ---
 description: >-
-  Sometime we need to check files in Docker build context, or just to check
+  Sometimes we need to check files in Docker build context, or just to check
   .dockerignore is work or not
 ---
 
