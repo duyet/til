@@ -30,6 +30,7 @@
   * [EMR - Tez](data-engineer/emr/emr-tez.md)
   * [Issues](data-engineer/emr/issues.md)
 * [Kubernetes](data-engineer/kubernetes/README.md)
+  * [Pull an Image from a Private Registry](data-engineer/kubernetes/pull-an-image-from-a-private-registry.md)
   * [Happy helm](data-engineer/kubernetes/happy-helm.md)
   * [Helm: render manifest locally](data-engineer/kubernetes/helm-render-manifest-locally.md)
 * [Helm Charts](data-engineer/helm-charts/README.md)
