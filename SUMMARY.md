@@ -58,6 +58,7 @@
 
 * [\[Fig\] Single machine and distributed system structure](miscellaneous/fig-single-machine-and-distributed-system-structure.md)
 * [Deploying Machine Learning Models at Scale](miscellaneous/deploying-machine-learning-models-at-scale.md)
+* [Bypass a Chrome certificate/HSTS error](miscellaneous/bypass-a-chrome-certificate-hsts-error.md)
 
 ## Go
 
