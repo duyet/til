@@ -45,6 +45,7 @@
 * [Docker](data-engineer/docker/README.md)
   * [Docker cleanup](data-engineer/docker/docker-cleanup.md)
   * [Optimize the Docker Image Size](data-engineer/docker/optimize-the-docker-image-size.md)
+  * [The best Docker base image for Python](data-engineer/docker/the-best-docker-base-image-for-python.md)
 
 ## Unix
 
