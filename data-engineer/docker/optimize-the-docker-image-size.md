@@ -35,3 +35,13 @@ COPY --from=builder ./bin/replicated /bin/replicated
 ENTRYPOINT ["/bin/replicated"]
 ```
 
+## Using distroless base images
+
+{% page-ref page="distroless-docker-images.md" %}
+
+## Dive - **A tool for exploring a docker image**
+
+{% embed url="https://github.com/wagoodman/dive" %}
+
+![](../../.gitbook/assets/demo.gif)
+

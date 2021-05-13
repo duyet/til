@@ -43,6 +43,7 @@
   * [Airflow in Docker Compose](data-engineer/apache-airflow/airflow-in-docker-compose.md)
   * [Useful SQL queries for Apache Airflow](data-engineer/apache-airflow/useful-sql-queries-for-apache-airflow.md)
 * [Docker](data-engineer/docker/README.md)
+  * ["Distroless" Docker Images](data-engineer/docker/distroless-docker-images.md)
   * [Docker cleanup](data-engineer/docker/docker-cleanup.md)
   * [Optimize the Docker Image Size](data-engineer/docker/optimize-the-docker-image-size.md)
   * [The best Docker base image for Python](data-engineer/docker/the-best-docker-base-image-for-python.md)
