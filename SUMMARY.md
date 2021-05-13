@@ -30,6 +30,7 @@
   * [EMR - Tez](data-engineer/emr/emr-tez.md)
   * [Issues](data-engineer/emr/issues.md)
 * [Kubernetes](data-engineer/kubernetes/README.md)
+  * [K8S - Port Forward](data-engineer/kubernetes/k8s-port-forward.md)
   * [Pull an Image from a Private Registry](data-engineer/kubernetes/pull-an-image-from-a-private-registry.md)
   * [Happy helm](data-engineer/kubernetes/happy-helm.md)
   * [Helm: render manifest locally](data-engineer/kubernetes/helm-render-manifest-locally.md)
@@ -41,12 +42,13 @@
   * [Best Practices for Airflow and ETLs](data-engineer/apache-airflow/best-practices-for-airflow-and-etls.md)
   * [Airflow in Docker Compose](data-engineer/apache-airflow/airflow-in-docker-compose.md)
   * [Useful SQL queries for Apache Airflow](data-engineer/apache-airflow/useful-sql-queries-for-apache-airflow.md)
+* [Docker](data-engineer/docker/README.md)
+  * [Docker cleanup](data-engineer/docker/docker-cleanup.md)
+  * [Optimize the Docker Image Size](data-engineer/docker/optimize-the-docker-image-size.md)
 
 ## Unix
 
-* [Docker cleanup](unix/docker-cleanup.md)
 * [Git - Pretty git branch graphs](unix/git-pretty-git-branch-graphs.md)
-* [K8S - Port Forward](unix/k8s-port-forward.md)
 * [Checking files in Docker build context](unix/checking-files-in-docker-build-context.md)
 * [Bash get the directory of the current script](unix/bash-get-the-directory-of-the-current-script.md)
 
