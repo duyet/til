@@ -53,6 +53,7 @@
 * [Git - Pretty git branch graphs](unix/git-pretty-git-branch-graphs.md)
 * [Checking files in Docker build context](unix/checking-files-in-docker-build-context.md)
 * [Bash get the directory of the current script](unix/bash-get-the-directory-of-the-current-script.md)
+* [Vim](unix/vim.md)
 
 ---
 
