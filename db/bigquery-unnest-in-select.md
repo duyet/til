@@ -1,4 +1,6 @@
-# Bigquery - UNNEST in SELECT
+# BigQuery - UNNEST in SELECT
+
+We can use `UNNEST` in the nested fields, rather than unnesting in the WHERE clause and JOIN
 
 ```sql
 SELECT 
