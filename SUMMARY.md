@@ -40,6 +40,7 @@
 * [Postgres - Index Summary](db/postgres-index-summary.md)
 * [Bigquery - Sample queries for audiences based](db/bigquery-sample-queries-for-audiences-based.md)
 * [Bigquery - UNNEST in SELECT](db/bigquery-unnest-in-select.md)
+* [BigQuery - Split string and get the first part](db/bigquery-split-string-and-get-the-first-part.md)
 
 ## Python
 
