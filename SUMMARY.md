@@ -31,17 +31,21 @@
 
 ## Database <a id="db"></a>
 
-* [Athena - Add Partition](db/athena-add-partition.md)
-* [Redshift - Check the table size](db/redshift-check-the-table-size.md)
-* [Redshift - tables and their owners](db/redshift-tables-and-their-owners.md)
-* [Redshift - GRANT](db/redshift-grant.md)
-* [Postgres - List tables](db/postgres-list-tables.md)
-* [Hive - SHOW schemas/tables/create](db/hive-show-schemas-tables-create.md)
-* [Postgres - Index Summary](db/postgres-index-summary.md)
-* [Bigquery - Sample queries for audiences based](db/bigquery-sample-queries-for-audiences-based.md)
-* [BigQuery - UNNEST in SELECT](db/bigquery-unnest-in-select.md)
-* [BigQuery - Split string and get the first part](db/bigquery-split-string-and-get-the-first-part.md)
-* [Aliyun Data Lake Analytics \(Presto\) - Add partition on non-existing location](db/aliyun-data-lake-analytics-presto-add-partition-on-non-existing-location.md)
+* [Google BigQuery](db/google-bigquery/README.md)
+  * [BigQuery - Split string and get the first part](db/google-bigquery/bigquery-split-string-and-get-the-first-part.md)
+  * [BigQuery - UNNEST in SELECT](db/google-bigquery/bigquery-unnest-in-select.md)
+  * [Bigquery - Sample queries for audiences based](db/google-bigquery/bigquery-sample-queries-for-audiences-based.md)
+* [Apache Hive](db/apache-hive/README.md)
+  * [Hive - SHOW schemas/tables/create](db/apache-hive/hive-show-schemas-tables-create.md)
+* [AWS Redshift / Postgres](db/aws-redshift-postgres/README.md)
+  * [Postgres - Index Summary](db/aws-redshift-postgres/postgres-index-summary.md)
+  * [Postgres - List tables](db/aws-redshift-postgres/postgres-list-tables.md)
+  * [Redshift - GRANT](db/aws-redshift-postgres/redshift-grant.md)
+  * [Redshift - tables and their owners](db/aws-redshift-postgres/redshift-tables-and-their-owners.md)
+  * [Redshift - Check the table size](db/aws-redshift-postgres/redshift-check-the-table-size.md)
+* [Presto](db/presto/README.md)
+  * [Aliyun Data Lake Analytics \(Presto\) - Add partition on non-existing location](db/presto/aliyun-data-lake-analytics-presto-add-partition-on-non-existing-location.md)
+  * [AWS Athena - Add Partition](db/presto/athena-add-partition.md)
 
 ## Python
 

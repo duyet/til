@@ -1,4 +1,4 @@
-# Athena - Add Partition
+# AWS Athena - Add Partition
 
 ```sql
 ALTER TABLE table_name ADD
