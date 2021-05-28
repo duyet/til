@@ -41,6 +41,7 @@
 * [Bigquery - Sample queries for audiences based](db/bigquery-sample-queries-for-audiences-based.md)
 * [BigQuery - UNNEST in SELECT](db/bigquery-unnest-in-select.md)
 * [BigQuery - Split string and get the first part](db/bigquery-split-string-and-get-the-first-part.md)
+* [Aliyun Data Lake Analytics \(Presto\) - Add partition on non-existing location](db/aliyun-data-lake-analytics-presto-add-partition-on-non-existing-location.md)
 
 ## Python
 
