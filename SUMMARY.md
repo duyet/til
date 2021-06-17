@@ -4,6 +4,8 @@
 
 ## Data Engineer
 
+* [AWS](data-engineer/aws.md)
+* [Make an NVMe volume available for use on AWS EC2](data-engineer/make-an-nvme-volume-available-for-use-on-aws-ec2.md)
 * [Tools](data-engineer/tools.md)
 * [EMR](data-engineer/emr/README.md)
   * [S3 Dist CP](data-engineer/emr/s3-dist-cp.md)
