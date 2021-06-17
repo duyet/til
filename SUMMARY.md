@@ -4,9 +4,11 @@
 
 ## Data Engineer
 
-* [AWS](data-engineer/aws.md)
-* [Make an NVMe volume available for use on AWS EC2](data-engineer/make-an-nvme-volume-available-for-use-on-aws-ec2.md)
+* [AWS](data-engineer/aws/README.md)
+  * [Make an NVMe volume available for use on AWS EC2](data-engineer/aws/make-an-nvme-volume-available-for-use-on-aws-ec2.md)
 * [Tools](data-engineer/tools.md)
+* [Shell](data-engineer/shell/README.md)
+  * [Merging contents of multiple .csv files into single .csv file](data-engineer/shell/merging-contents-of-multiple-.csv-files-into-single-.csv-file.md)
 * [EMR](data-engineer/emr/README.md)
   * [S3 Dist CP](data-engineer/emr/s3-dist-cp.md)
   * [Manage services](data-engineer/emr/manage-services.md)
