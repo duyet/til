@@ -79,6 +79,7 @@
 ## Go
 
 * [Functions and Methods in Go?](go/functions-and-methods-in-go.md)
+* [Convert JSON to Go struct](go/convert-json-to-go-struct.md)
 
 ## Frontend
 
