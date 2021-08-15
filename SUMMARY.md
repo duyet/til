@@ -16,6 +16,7 @@
   * [EMR - Tez](data-engineer/emr/emr-tez.md)
   * [Issues](data-engineer/emr/issues.md)
 * [Kubernetes](data-engineer/kubernetes/README.md)
+  * [PVC stuck in status “Terminating”](data-engineer/kubernetes/pvc-stuck-in-status-terminating.md)
   * [K8S - Port Forward](data-engineer/kubernetes/k8s-port-forward.md)
   * [Pull an Image from a Private Registry](data-engineer/kubernetes/pull-an-image-from-a-private-registry.md)
   * [Happy helm](data-engineer/kubernetes/happy-helm.md)
