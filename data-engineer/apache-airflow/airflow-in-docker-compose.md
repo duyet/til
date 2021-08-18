@@ -4,8 +4,9 @@ description: Setup Airflow in Docker Compose
 
 # Airflow in Docker Compose
 
-{% code title="docker-compose.env" %}
 ```yaml
+# docker-compose.env
+
 POSTGRES_USER=airflow
 POSTGRES_PASSWORD=airflow
 POSTGRES_DB=airflow
@@ -15,10 +16,10 @@ AIRFLOW__CORE__DAGS_FOLDER=/opt/airflow/dags
 AIRFLOW__CORE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
 AIRFLOW__CORE__FERNET_KEY=.............
 ```
-{% endcode %}
 
-{% code title="docker-compose.yml" %}
 ```yaml
+# docker-compose.yml
+
 version: '2.1'
 
 services:
@@ -66,10 +67,10 @@ services:
             - /tmp/airflow_logs:/root/airflow/logs
         command: scheduler
 ```
-{% endcode %}
 
-{% code title="Dockerfile" %}
 ```ocaml
+# Dockerfile
+
 FROM duyetdev/airflow:1.10.5
 
 ENV PYTHONPATH "/opt/airflow/dags:$PYTHONPATH"
@@ -82,7 +83,6 @@ RUN pip install -r /opt/airflow/requirements.txt
 COPY script/auth /
 COPY dags /opt/airflow/dags
 ```
-{% endcode %}
 
 Run:
 
