@@ -83,9 +83,10 @@
 * [Functions and Methods in Go?](go/functions-and-methods-in-go.md)
 * [Convert JSON to Go struct](go/convert-json-to-go-struct.md)
 
-## Frontend
+## Frontend / React <a id="frontend"></a>
 
 * [Flexbox](frontend/flexbox.md)
+* [Create hook to inject JS script](frontend/create-hook-to-inject-js-script.md)
 
 ## Javascript / Typescript
 
