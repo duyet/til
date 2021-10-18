@@ -3,7 +3,7 @@
 * [https://github.com/puckel/docker-airflow](https://github.com/puckel/docker-airflow)
 * [https://github.com/duyetdev/docker-airflow](https://github.com/duyetdev/docker-airflow)
 
-{% page-ref page="airflow-in-docker-compose.md" %}
-
-
+{% content-ref url="airflow-in-docker-compose.md" %}
+[airflow-in-docker-compose.md](airflow-in-docker-compose.md)
+{% endcontent-ref %}
 

@@ -8,7 +8,7 @@ description: Upscale/Downscale of the emr cluster corrupts hdfs jars /apps/tez/t
 
 Repair the **tez.tar.gz** file and increase replication value
 
-```text
+```
 wget https://downloads.apache.org/tez/0.9.2/apache-tez-0.9.2-bin.tar.gz
 tar -zxvf apache-tez-0.9.2-bin.tar.gz
 hadoop fs -rm /apps/tez/tez.tar.gz
@@ -21,8 +21,7 @@ hadoop fs -setrep -w 3 /apps/tez/
 Referring the tar file directly from S3
 
 {% code title="tez-site.xml" %}
-```text
+```
 tez.lib.uris=s3://bucketName/tez/tez.tar.gz
 ```
 {% endcode %}
-

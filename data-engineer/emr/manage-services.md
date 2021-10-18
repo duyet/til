@@ -10,7 +10,7 @@ initctl list
 {% endtab %}
 
 {% tab title="Output" %}
-```text
+```
 rc stop/waiting
 tty (/dev/tty3) start/running, process 4367
 tty (/dev/tty2) start/running, process 4365
@@ -62,14 +62,14 @@ gmond start/running, process 8774
 
 ## Status / Restart Service
 
-```text
+```
 sudo status hive-hcatalog-server
 sudo restart hive-hcatalog-server
 ```
 
 ## Restart Common Services
 
-```text
+```
 sudo restart hadoop-mapreduce-historyserver
 sudo restart hadoop-yarn-timelineserver
 sudo restart hive-hcatalog-server
@@ -84,4 +84,3 @@ sudo restart hadoop-yarn-proxyserver
 sudo restart spark-history-server
 sudo restart hadoop-hdfs-namenode
 ```
-

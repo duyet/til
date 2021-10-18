@@ -2,7 +2,7 @@
 description: Get all S3 Keys by Prefix by Boto3
 ---
 
-# get\_all\_s3\_keys
+# get_all_s3\_keys
 
 ```python
 def scan_s3_objects(bucket, prefix):
@@ -34,6 +34,4 @@ def scan_s3_objects(bucket, prefix):
 
     return keys
 ```
-
-
 

@@ -1,6 +1,6 @@
 # Postgres - Index Summary
 
-Here's a sample query to pull the number of rows, indexes, and some info about those indexes for each table. Ditch the pg\_size\_pretty if you’re on an ancient \(&lt;= 8.2\) version\)
+Here's a sample query to pull the number of rows, indexes, and some info about those indexes for each table. Ditch the pg_size_pretty if you’re on an ancient (<= 8.2) version)
 
 ```sql
 SELECT
@@ -39,5 +39,4 @@ GROUP BY pg_class.relname, pg_class.reltuples, x.is_unique
 ORDER BY 2;
 ```
 
-Source: [https://wiki.postgresql.org/wiki/Index\_Maintenance](https://wiki.postgresql.org/wiki/Index_Maintenance)
-
+Source: [https://wiki.postgresql.org/wiki/Index_Maintenance](https://wiki.postgresql.org/wiki/Index_Maintenance)

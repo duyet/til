@@ -1,6 +1,6 @@
 # Redshift - GRANT
 
-Grant all on schema to user\_name:
+Grant all on schema to user_name:
 
 ```sql
 GRANT ALL
@@ -29,6 +29,4 @@ Change owner:
 ALTER TABLE
     <schema>.<table> OWNER TO <user>;
 ```
-
-
 

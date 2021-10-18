@@ -4,7 +4,7 @@
 
 GCP Distroless: [https://github.com/GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless)
 
-```text
+```
 # Build a virtualenv using the appropriate Debian release
 # * Install python3-venv for the built-in Python3 venv module (not installed by default)
 # * Install gcc libpython3-dev to compile C Python modules
@@ -27,4 +27,3 @@ COPY . /app
 WORKDIR /app
 ENTRYPOINT ["/venv/bin/python3", "psutil_example.py"]
 ```
-

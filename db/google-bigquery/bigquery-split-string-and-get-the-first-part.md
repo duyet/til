@@ -11,6 +11,5 @@ FROM ...
 
 References:
 
-* [https://cloud.google.com/bigquery/docs/reference/standard-sql/string\_functions\#split](https://cloud.google.com/bigquery/docs/reference/standard-sql/string_functions#split)
-* [https://cloud.google.com/bigquery/docs/reference/standard-sql/array\_functions\#safe\_offset\_and\_safe\_ordinal](https://cloud.google.com/bigquery/docs/reference/standard-sql/array_functions#safe_offset_and_safe_ordinal)
-
+* [https://cloud.google.com/bigquery/docs/reference/standard-sql/string_functions#split](https://cloud.google.com/bigquery/docs/reference/standard-sql/string_functions#split)
+* [https://cloud.google.com/bigquery/docs/reference/standard-sql/array_functions#safe_offset_and_safe_ordinal](https://cloud.google.com/bigquery/docs/reference/standard-sql/array_functions#safe_offset_and_safe_ordinal)

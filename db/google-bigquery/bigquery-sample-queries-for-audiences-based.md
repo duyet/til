@@ -9,7 +9,7 @@ description: >-
 
 Source: [https://support.google.com/firebase/answer/9037342?hl=en](https://support.google.com/firebase/answer/9037342?hl=en)
 
-### N-day active users <a id="ndayactives"></a>
+### N-day active users <a href="ndayactives" id="ndayactives"></a>
 
 ```sql
 /**
@@ -33,7 +33,7 @@ WHERE
 
 ```
 
-### N-day inactive users <a id="ndayinactives"></a>
+### N-day inactive users <a href="ndayinactives" id="ndayinactives"></a>
 
 ```sql
 /**
@@ -80,7 +80,7 @@ WHERE
   NDaysUsers.user_id IS NULL;
 ```
 
-### Frequently active users <a id="frequentactives"></a>
+### Frequently active users <a href="frequentactives" id="frequentactives"></a>
 
 ```sql
 /**
@@ -114,7 +114,7 @@ FROM
 
 ```
 
-### Highly active users <a id="highactives"></a>
+### Highly active users <a href="highactives" id="highactives"></a>
 
 ```sql
 /**
@@ -152,7 +152,7 @@ FROM
 
 ```
 
-### Acquired users <a id="acquired"></a>
+### Acquired users <a href="acquired" id="acquired"></a>
 
 ```sql
 /**
@@ -173,7 +173,7 @@ WHERE
   AND _TABLE_SUFFIX BETWEEN '20180521' AND '20240131';
 ```
 
-### Cohorts with filters <a id="cohorts"></a>
+### Cohorts with filters <a href="cohorts" id="cohorts"></a>
 
 ```sql
 /**
@@ -201,4 +201,3 @@ WHERE
   -- PLEASE REPLACE YOUR DESIRED DATE RANGE.
   AND _TABLE_SUFFIX BETWEEN '20180501' AND '20240131';
 ```
-

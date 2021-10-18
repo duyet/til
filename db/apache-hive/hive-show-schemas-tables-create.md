@@ -6,17 +6,15 @@ description: >-
 
 # Hive - SHOW schemas/tables/create
 
-```text
+```
 show schemas
 ```
 
-```text
+```
 show tables
 ```
 
-```text
+```
 show create table <table_name>;
 ```
-
-
 

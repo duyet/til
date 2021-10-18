@@ -17,7 +17,7 @@
  ....
 ```
 
-### Using pg\_catalog schema
+### Using pg_catalog schema
 
 ```sql
 SELECT
@@ -32,4 +32,3 @@ AND schemaname != 'information_schema';
 Reference:
 
 * [http://www.postgresqltutorial.com/postgresql-show-tables/](http://www.postgresqltutorial.com/postgresql-show-tables/)
-

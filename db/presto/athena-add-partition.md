@@ -40,5 +40,3 @@ ADD PARTITION (date_index='2019-01-04') location "s3://data/dw/year=2019/month=0
 
 
 
-
-

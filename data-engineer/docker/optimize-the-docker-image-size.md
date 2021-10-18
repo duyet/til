@@ -2,7 +2,7 @@
 
 ## Cleaning up in the same layer
 
-```text
+```
 FROM ubuntu:14.04
 RUN apt-get update && \
     apt-get install -y curl python-pip && \
@@ -15,7 +15,7 @@ ENTRYPOINT ["python", "/my_service.py"]
 
 ## Apt install with \`--no-install-recommends\` 
 
-```text
+```
 ...
 RUN apt-get install -y --no-install-recommends curl python-pip
 ...
@@ -23,7 +23,7 @@ RUN apt-get install -y --no-install-recommends curl python-pip
 
 ## Multi-Stage Builds
 
-```text
+```
 FROM golang:1.8-alpine as builder
 RUN go get github.com/kardianos/govendor
 RUN go get github.com/nicksnyder/go-i18n/goi18n
@@ -37,11 +37,12 @@ ENTRYPOINT ["/bin/replicated"]
 
 ## Using distroless base images
 
-{% page-ref page="distroless-docker-images.md" %}
+{% content-ref url="distroless-docker-images.md" %}
+[distroless-docker-images.md](distroless-docker-images.md)
+{% endcontent-ref %}
 
 ## Dive - **A tool for exploring a docker image**
 
 {% embed url="https://github.com/wagoodman/dive" %}
 
 ![](../../.gitbook/assets/demo.gif)
-

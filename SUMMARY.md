@@ -16,6 +16,7 @@
   * [EMR - Tez](data-engineer/emr/emr-tez.md)
   * [Issues](data-engineer/emr/issues.md)
 * [Kubernetes](data-engineer/kubernetes/README.md)
+  * [K8S Services and Labels](data-engineer/kubernetes/k8s-services-and-labels.md)
   * [PVC stuck in status “Terminating”](data-engineer/kubernetes/pvc-stuck-in-status-terminating.md)
   * [K8S - Port Forward](data-engineer/kubernetes/k8s-port-forward.md)
   * [Pull an Image from a Private Registry](data-engineer/kubernetes/pull-an-image-from-a-private-registry.md)
@@ -35,7 +36,7 @@
   * [Optimize the Docker Image Size](data-engineer/docker/optimize-the-docker-image-size.md)
   * [The best Docker base image for Python](data-engineer/docker/the-best-docker-base-image-for-python.md)
 
-## Database <a id="db"></a>
+## Database <a href="db" id="db"></a>
 
 * [Google BigQuery](db/google-bigquery/README.md)
   * [BigQuery - Split string and get the first part](db/google-bigquery/bigquery-split-string-and-get-the-first-part.md)
@@ -50,13 +51,13 @@
   * [Redshift - tables and their owners](db/aws-redshift-postgres/redshift-tables-and-their-owners.md)
   * [Redshift - Check the table size](db/aws-redshift-postgres/redshift-check-the-table-size.md)
 * [Presto](db/presto/README.md)
-  * [Aliyun Data Lake Analytics \(Presto\) - Add partition on non-existing location](db/presto/aliyun-data-lake-analytics-presto-add-partition-on-non-existing-location.md)
+  * [Aliyun Data Lake Analytics (Presto) - Add partition on non-existing location](db/presto/aliyun-data-lake-analytics-presto-add-partition-on-non-existing-location.md)
   * [AWS Athena - Add Partition](db/presto/athena-add-partition.md)
 
 ## Python
 
-* [date\_range\_generator](python/date_range_generator.md)
-* [get\_all\_s3\_keys](python/get_all_s3_keys.md)
+* [date_range_generator](python/date_range_generator.md)
+* [get_all_s3\_keys](python/get_all_s3\_keys.md)
 * [Pipenv](python/pipenv.md)
 * [YAML config file with environment variables](python/yaml-config-file-with-environment-variables.md)
 
@@ -68,7 +69,7 @@
 * [Vim](unix/vim.md)
 * [Find and replace](unix/find-and-replace.md)
 
----
+***
 
 * [Articles](articles.md)
 
@@ -83,7 +84,7 @@
 * [Functions and Methods in Go?](go/functions-and-methods-in-go.md)
 * [Convert JSON to Go struct](go/convert-json-to-go-struct.md)
 
-## Frontend / React <a id="frontend"></a>
+## Frontend / React <a href="frontend" id="frontend"></a>
 
 * [Flexbox](frontend/flexbox.md)
 * [Create hook to inject JS script](frontend/create-hook-to-inject-js-script.md)
@@ -91,4 +92,3 @@
 ## Javascript / Typescript
 
 * [Intl.ListFormat](javascript-typescript/intl.listformat.md)
-

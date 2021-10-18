@@ -55,4 +55,3 @@ kubectl apply -f pod.yaml
 ## Reference
 
 [https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/](https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/)
-

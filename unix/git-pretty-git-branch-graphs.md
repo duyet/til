@@ -36,5 +36,3 @@ Tips:
 
 > "**A Dog**" = git log --**a**ll --**d**ecorate --**o**neline --**g**raph
 
-
-

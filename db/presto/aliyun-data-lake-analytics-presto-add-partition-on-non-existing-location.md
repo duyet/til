@@ -1,4 +1,4 @@
-# Aliyun Data Lake Analytics \(Presto\) - Add partition on non-existing location
+# Aliyun Data Lake Analytics (Presto) - Add partition on non-existing location
 
 By default, you will get the error when trying to add partition references to a non-existing oss path.
 
@@ -19,5 +19,4 @@ TBLPROPERTIES (
 );​
 ```
 
-Reference: [https://help.aliyun.com/document\_detail/193719.html](https://help.aliyun.com/document_detail/193719.html?spm=a2c4g.11186623.6.645.275170f2iZsneL)
-
+Reference: [https://help.aliyun.com/document_detail/193719.html](https://help.aliyun.com/document_detail/193719.html?spm=a2c4g.11186623.6.645.275170f2iZsneL)

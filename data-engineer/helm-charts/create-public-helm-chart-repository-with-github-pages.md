@@ -4,7 +4,7 @@
 
 Sample: [https://github.com/duyet/charts](https://github.com/duyet/charts)
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 ## 2. Chart testing and linting
 
@@ -166,7 +166,7 @@ helm repo index --url https://duyet.github.io/charts .
 
 You can commit the helm package to the `master` branch, then public all content by Github pages.
 
-![Settings &amp;gt; Github Pages](../../.gitbook/assets/image%20%283%29.png)
+![Settings > Github Pages](<../../.gitbook/assets/image (3).png>)
 
 ##  5. Github Workflows Action for build and publish
 
@@ -218,13 +218,11 @@ $ helm repo add duyet https://duyet.github.io/charts/
 
 **Test the Helm chart repository**
 
-```text
+```
 $ helm search commento
 NAME CHART VERSION APP VERSION DESCRIPTION
 […]
 duyet/commento 0.1.0 1.0 A Helm chart for Kubernetes
 […]
 ```
-
-
 

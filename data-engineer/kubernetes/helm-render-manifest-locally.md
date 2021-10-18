@@ -1,6 +1,6 @@
 # Helm: render manifest locally
 
-1. Install yq \(`brew install yq`\)
+1. Install yq (`brew install yq`)
 2. Download chart to local
 3. Get values from release yaml
 4. Using `helm template` to render manifest
@@ -33,4 +33,3 @@ helm template ${HELM_RELEASE_NAME} ${CHART_DIR} --namespace $HELM_RELEASE_NAMESP
 ```
 
 Ref: [https://github.com/stefanprodan/hrval-action/blob/master/src/hrval.sh](https://github.com/stefanprodan/hrval-action/blob/master/src/hrval.sh)
-

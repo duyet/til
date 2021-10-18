@@ -6,7 +6,7 @@ description: >-
 
 # S3 Dist CP
 
-```text
+```
 s3-dist-cp -Dmapreduce.job.reduces=100 \
     -Dfs.s3a.access.key=yourAccessKey \
     -Dfs.s3a.secret.key=yourSecretKey\
@@ -17,5 +17,4 @@ s3-dist-cp -Dmapreduce.job.reduces=100 \
 
 `yourAccessKey` and `yourSecretKey` should have access to both S3 source and destination.
 
-References: [https://docs.aws.amazon.com/emr/latest/ReleaseGuide/UsingEMR\_s3distcp.html](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/UsingEMR_s3distcp.html)
-
+References: [https://docs.aws.amazon.com/emr/latest/ReleaseGuide/UsingEMR_s3distcp.html](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/UsingEMR_s3distcp.html)

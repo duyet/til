@@ -1,4 +1,4 @@
-# date\_range\_generator
+# date_range_generator
 
 ## Generator Date Range
 
@@ -20,6 +20,4 @@ def date_range_generator(StartDate: str, EndDate: str, Format: str = '%Y/%m/%d')
         start + datetime.timedelta(days=x) for x in range(0, (end-start).days + 1)]
     return [d.strftime(Format) for d in date_generated]
 ```
-
-
 

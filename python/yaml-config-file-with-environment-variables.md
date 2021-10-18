@@ -101,4 +101,3 @@ CONFIG = parse_config(data=content)
 ```
 {% endtab %}
 {% endtabs %}
-
