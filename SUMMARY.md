@@ -10,6 +10,7 @@
 * [Shell](data-engineer/shell/README.md)
   * [Using \`sed\` to find and replace in file](data-engineer/shell/using-sed-to-find-and-replace-in-file.md)
   * [Merging contents of multiple .csv files into single .csv file](data-engineer/shell/merging-contents-of-multiple-.csv-files-into-single-.csv-file.md)
+* [MacOS's Touch ID on Terminal](data-engineer/macoss-touch-id-on-terminal.md)
 * [EMR](data-engineer/emr/README.md)
   * [S3 Dist CP](data-engineer/emr/s3-dist-cp.md)
   * [Manage services](data-engineer/emr/manage-services.md)
@@ -56,8 +57,8 @@
 
 ## Python
 
-* [date_range_generator](python/date_range_generator.md)
-* [get_all_s3\_keys](python/get_all_s3\_keys.md)
+* [date\_range\_generator](python/date\_range\_generator.md)
+* [get\_all\_s3\_keys](python/get\_all\_s3\_keys.md)
 * [Pipenv](python/pipenv.md)
 * [YAML config file with environment variables](python/yaml-config-file-with-environment-variables.md)
 
