@@ -40,6 +40,7 @@
 ## Database <a href="db" id="db"></a>
 
 * [Google BigQuery](db/google-bigquery/README.md)
+  * [BigQuery Cancel Running Query](db/google-bigquery/bigquery-cancel-running-query.md)
   * [BigQuery - Split string and get the first part](db/google-bigquery/bigquery-split-string-and-get-the-first-part.md)
   * [BigQuery - UNNEST in SELECT](db/google-bigquery/bigquery-unnest-in-select.md)
   * [Bigquery - Sample queries for audiences based](db/google-bigquery/bigquery-sample-queries-for-audiences-based.md)
