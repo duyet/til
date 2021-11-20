@@ -4,18 +4,18 @@
 
 ## Data Engineering
 
-* [AWS](data-engineering/aws/README.md)
+* [☁ AWS](data-engineering/aws/README.md)
   * [Make an NVMe volume available for use on AWS EC2](data-engineering/aws/make-an-nvme-volume-available-for-use-on-aws-ec2.md)
-* [Tools](data-engineering/tools.md)
-* [Shell](data-engineering/shell/README.md)
+  * [AWS EMR](data-engineering/aws/emr/README.md)
+    * [S3 Dist CP](data-engineering/aws/emr/s3-dist-cp.md)
+    * [Manage services](data-engineering/aws/emr/manage-services.md)
+    * [EMR - Tez](data-engineering/aws/emr/emr-tez.md)
+    * [Issues](data-engineering/aws/emr/issues.md)
+* [⚒ Tools](data-engineering/tools.md)
+* [💻 Shell](data-engineering/shell/README.md)
   * [MacOS's Touch ID on Terminal](data-engineering/shell/macoss-touch-id-on-terminal.md)
   * [Using \`sed\` to find and replace in file](data-engineering/shell/using-sed-to-find-and-replace-in-file.md)
   * [Merging contents of multiple .csv files into single .csv file](data-engineering/shell/merging-contents-of-multiple-.csv-files-into-single-.csv-file.md)
-* [EMR](data-engineering/emr/README.md)
-  * [S3 Dist CP](data-engineering/emr/s3-dist-cp.md)
-  * [Manage services](data-engineering/emr/manage-services.md)
-  * [EMR - Tez](data-engineering/emr/emr-tez.md)
-  * [Issues](data-engineering/emr/issues.md)
 * [Kubernetes](data-engineering/kubernetes/README.md)
   * [K8S Services and Labels](data-engineering/kubernetes/k8s-services-and-labels.md)
   * [PVC stuck in status “Terminating”](data-engineering/kubernetes/pvc-stuck-in-status-terminating.md)
@@ -56,12 +56,21 @@
   * [Aliyun Data Lake Analytics (Presto) - Add partition on non-existing location](db/presto/aliyun-data-lake-analytics-presto-add-partition-on-non-existing-location.md)
   * [AWS Athena - Add Partition](db/presto/athena-add-partition.md)
 
-## Python
+## Programming
 
-* [date\_range\_generator](python/date\_range\_generator.md)
-* [get\_all\_s3\_keys](python/get\_all\_s3\_keys.md)
-* [Pipenv](python/pipenv.md)
-* [YAML config file with environment variables](python/yaml-config-file-with-environment-variables.md)
+* [🐍 Python](programming/python/README.md)
+  * [YAML config file with environment variables](programming/python/yaml-config-file-with-environment-variables.md)
+  * [date\_range\_generator](programming/python/date\_range\_generator.md)
+  * [get\_all\_s3\_keys](programming/python/get\_all\_s3\_keys.md)
+  * [Pipenv](programming/python/pipenv.md)
+* [Golang](programming/golang/README.md)
+  * [Functions and Methods in Go?](programming/golang/functions-and-methods-in-go.md)
+  * [Convert JSON to Go struct](programming/golang/convert-json-to-go-struct.md)
+* [Javascript / Typescript](programming/javascript-typescript/README.md)
+  * [Intl.ListFormat](programming/javascript-typescript/intl.listformat.md)
+* [FE / React](programming/fe-react/README.md)
+  * [Flexbox](programming/fe-react/flexbox.md)
+  * [Create hook to inject JS script](programming/fe-react/create-hook-to-inject-js-script.md)
 
 ## Unix
 
@@ -71,26 +80,9 @@
 * [Vim](unix/vim.md)
 * [Find and replace](unix/find-and-replace.md)
 
-***
-
-* [Articles](articles.md)
-
 ## Miscellaneous
 
 * [\[Fig\] Single machine and distributed system structure](miscellaneous/fig-single-machine-and-distributed-system-structure.md)
 * [Deploying Machine Learning Models at Scale](miscellaneous/deploying-machine-learning-models-at-scale.md)
 * [Bypass a Chrome certificate/HSTS error](miscellaneous/bypass-a-chrome-certificate-hsts-error.md)
-
-## Go
-
-* [Functions and Methods in Go?](go/functions-and-methods-in-go.md)
-* [Convert JSON to Go struct](go/convert-json-to-go-struct.md)
-
-## Frontend / React <a href="frontend" id="frontend"></a>
-
-* [Flexbox](frontend/flexbox.md)
-* [Create hook to inject JS script](frontend/create-hook-to-inject-js-script.md)
-
-## Javascript / Typescript
-
-* [Intl.ListFormat](javascript-typescript/intl.listformat.md)
+* [Articles](miscellaneous/articles.md)
