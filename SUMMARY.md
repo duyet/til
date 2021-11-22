@@ -47,6 +47,7 @@
 * [Apache Hive](db/apache-hive/README.md)
   * [Hive - SHOW schemas/tables/create](db/apache-hive/hive-show-schemas-tables-create.md)
 * [AWS Redshift / Postgres](db/aws-redshift-postgres/README.md)
+  * [Amazon Redshift Utilities](db/aws-redshift-postgres/amazon-redshift-utilities.md)
   * [Postgres - Index Summary](db/aws-redshift-postgres/postgres-index-summary.md)
   * [Postgres - List tables](db/aws-redshift-postgres/postgres-list-tables.md)
   * [Redshift - GRANT](db/aws-redshift-postgres/redshift-grant.md)
