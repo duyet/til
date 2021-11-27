@@ -1,5 +1,5 @@
 ---
-description: til.duyet.net
+description: I write to discover what I know. — Flannery O'Connor
 ---
 
 # 😹 Today I Learned
