@@ -1,2 +1,2 @@
-# Helm Charts
+# ☸ Helm Charts
 
