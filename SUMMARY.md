@@ -74,6 +74,7 @@
 * [Javascript / Typescript](programming/javascript-typescript/README.md)
   * [Intl.ListFormat](programming/javascript-typescript/intl.listformat.md)
 * [FE / React](programming/fe-react/README.md)
+  * [Beautiful icons, images, ..](programming/fe-react/beautiful-icons-images-...md)
   * [Flexbox](programming/fe-react/flexbox.md)
   * [Create hook to inject JS script](programming/fe-react/create-hook-to-inject-js-script.md)
 
