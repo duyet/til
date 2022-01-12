@@ -1,6 +1,6 @@
 # Table of contents
 
-* [😹 Today I Learned](README.md)
+* [🤪 Today I Learned](README.md)
 
 ## Data Engineering
 
@@ -60,7 +60,7 @@
 
 ## Programming
 
-* [Rust](programming/rust/README.md)
+* [🍪 Rust](programming/rust/README.md)
   * [cheats.rs](programming/rust/cheats.rs.md)
   * [Imperative vs Declarative](programming/rust/imperative-vs-declarative.md)
 * [🐍 Python](programming/python/README.md)
@@ -68,12 +68,12 @@
   * [date\_range\_generator](programming/python/date\_range\_generator.md)
   * [get\_all\_s3\_keys](programming/python/get\_all\_s3\_keys.md)
   * [Pipenv](programming/python/pipenv.md)
-* [Golang](programming/golang/README.md)
+* [👻 Golang](programming/golang/README.md)
   * [Functions and Methods in Go?](programming/golang/functions-and-methods-in-go.md)
   * [Convert JSON to Go struct](programming/golang/convert-json-to-go-struct.md)
-* [Javascript / Typescript](programming/javascript-typescript/README.md)
+* [💎 Javascript / Typescript](programming/javascript-typescript/README.md)
   * [Intl.ListFormat](programming/javascript-typescript/intl.listformat.md)
-* [FE / React](programming/fe-react/README.md)
+* [✨ FE / React](programming/fe-react/README.md)
   * [Beautiful icons, images, ..](programming/fe-react/beautiful-icons-images-...md)
   * [Flexbox](programming/fe-react/flexbox.md)
   * [Create hook to inject JS script](programming/fe-react/create-hook-to-inject-js-script.md)
