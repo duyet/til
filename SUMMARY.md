@@ -17,6 +17,7 @@
   * [Using \`sed\` to find and replace in file](data-engineering/shell/using-sed-to-find-and-replace-in-file.md)
   * [Merging contents of multiple .csv files into single .csv file](data-engineering/shell/merging-contents-of-multiple-.csv-files-into-single-.csv-file.md)
 * [☸ Kubernetes](data-engineering/kubernetes/README.md)
+  * [Kustomize: omission of resources](data-engineering/kubernetes/kustomize-omission-of-resources.md)
   * [K8S Services and Labels](data-engineering/kubernetes/k8s-services-and-labels.md)
   * [PVC stuck in status “Terminating”](data-engineering/kubernetes/pvc-stuck-in-status-terminating.md)
   * [K8S - Port Forward](data-engineering/kubernetes/k8s-port-forward.md)
