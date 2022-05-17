@@ -2,16 +2,16 @@
 description: I write to discover what I know. — Flannery O'Connor
 ---
 
-# 😹 Today I Learned
+# 🤪 Today I Learned
 
 Duyet Le - Data Engineer @ Fossil
 
 * Design, build and deploy the Data Platform
 * Design, build and deploy the platforms for Data Monitoring, Data Catalog, Data Governance, Self-service Analytics
-* I regularly write articles on [blog.duyet.net](https://blog.duyet.net)
+* I regularly write articles on [blog.duyet.net](https://blog.duyet.net/)
 * Ask me about **Data Engineering, Data Platform, DataOps, Kubernetes, Data Studio**
 * Reaching **me at duyet dot net**
-* My résumé: [https://cv.duyet.net](https://cv.duyet.net)
+* My résumé: [https://cv.duyet.net](https://cv.duyet.net/)
 
 #### Connect with me:
 

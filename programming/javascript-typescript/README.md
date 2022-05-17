@@ -1,2 +1,2 @@
-# Javascript / Typescript
+# 💎 Javascript / Typescript
 
