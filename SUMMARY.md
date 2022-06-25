@@ -65,6 +65,7 @@
 * [🍪 Rust](programming/rust/README.md)
   * [cheats.rs](programming/rust/cheats.rs.md)
   * [Imperative vs Declarative](programming/rust/imperative-vs-declarative.md)
+  * [Generate Struct from JSON](programming/rust/generate-struct-from-json.md)
 * [🐍 Python](programming/python/README.md)
   * [YAML config file with environment variables](programming/python/yaml-config-file-with-environment-variables.md)
   * [date\_range\_generator](programming/python/date\_range\_generator.md)
