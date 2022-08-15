@@ -25,6 +25,7 @@
   * [Happy helm](data-engineering/kubernetes/happy-helm.md)
   * [Helm: render manifest locally](data-engineering/kubernetes/helm-render-manifest-locally.md)
   * [Helm: Public Helm chart repository with GitHub Pages](data-engineering/kubernetes/create-public-helm-chart-repository-with-github-pages.md)
+* [env from ConfigMap or Secrets](data-engineering/env-from-configmap-or-secrets.md)
 * [🔄 Apache Airflow](data-engineering/apache-airflow/README.md)
   * [Extend official Docker image](data-engineering/apache-airflow/extend-official-docker-image.md)
   * [Generate offline SQL upgrade script](data-engineering/apache-airflow/generate-offline-sql-upgrade-script.md)
